@@ -1,0 +1,14 @@
+{
+  "name": "WBA2-Projekt",
+  "version": "0.0.1",
+  "description": "Ein Projekt im Rahmen des WBA2-Workshops",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": ">=1.0.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Max Mustermann",
+  "license": "BSD"
+}
